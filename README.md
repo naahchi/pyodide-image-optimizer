@@ -1,0 +1,1 @@
+# pyodide-image-optimizer
